@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 First commit
 
 Second commit
 
 Third commit
 
-#Some random changes
+Some random changes
 =======
 booya
->>>>>>> history
